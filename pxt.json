@@ -1,11 +1,11 @@
 {
-    "name": "pxt-first-gadget",
+    "name": "first gadget",
     "version": "0.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "bluetooth": "*"
     },
     "files": [
         "README.md",
